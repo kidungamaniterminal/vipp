@@ -1,13 +1,13 @@
 
 
 class Config:
-    BOT_TOKEN = "6912059186:AAGLsNfUadNZT6GENgZxWb2Fs_rak0Ki5Wc"
-    API_ID = int(25694565)
-    API_HASH = "01695c8ff7f8f2d8a3407bf7655f512a"
+    BOT_TOKEN = "6304569739:AAHaa42NyHSR7uLiMJSTzbpxXomBqbUZqBE"
+    API_ID = int(16419062)
+    API_HASH = "874263f2a92fbc7c67b1864b0e79cc2c"
  
-    ADMINS = [5652656279, 1896730469, 7157859848, 6164338004]
-    DB_NAME = "Cluster0"
-    DB_URL = "mongodb+srv://DB:DB@cluster0.oaxbpow.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"     
+    ADMINS = [1896730469, 7157859848, 6164338004]
+    DB_NAME = "johnysin"
+    DB_URL = "mongodb+srv://johnysin.f8c9wtr.mongodb.net/?retryWrites=true&w=majority&appName=johnysin"     
     LOG_CHANNEL = int(-1001922417490)
     QR_CODE = "https://graph.org/file/a927c5c5c24622eb95462.jpg"
     UPI_ID = "vip8kidungamani@axl"
