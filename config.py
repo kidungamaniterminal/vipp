@@ -7,7 +7,7 @@ class Config:
  
     ADMINS = [1896730469, 7157859848, 6164338004]
     DB_NAME = "cluster0"
-    DB_URL = "mongodb+srv://kidungamani000:ttt111ttt222@cluster0.vf96bgu.mongodb.net/"     
+    DB_URL = "mongodb+srv://kidungamani000:ttt111ttt222@cluster0.vf96bgu.mongodb.net/?retryWrites=true&w=majority&appName=cluster0"     
     LOG_CHANNEL = int(-1001922417490)
     QR_CODE = "https://graph.org/file/a927c5c5c24622eb95462.jpg"
     UPI_ID = "vip8kidungamani@axl"
