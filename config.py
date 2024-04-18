@@ -7,7 +7,7 @@ class Config:
  
     ADMINS = [1896730469, 7157859848, 6164338004]
     DB_NAME = "johnysin"
-    DB_URL = "mongodb+srv://johnysin.f8c9wtr.mongodb.net/?retryWrites=true&w=majority&appName=johnysin"     
+    DB_URL = "mongodb+srv://johnysin:ttt111ttt222@johnysin.f8c9wtr.mongodb.net/?retryWrites=true&w=majority&appName=johnysin"     
     LOG_CHANNEL = int(-1001922417490)
     QR_CODE = "https://graph.org/file/a927c5c5c24622eb95462.jpg"
     UPI_ID = "vip8kidungamani@axl"
